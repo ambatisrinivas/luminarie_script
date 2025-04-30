@@ -1,0 +1,5 @@
+{
+    "host": "0.0.0.0",
+    "tcp_port": 5250,
+    "inactivity_threshold": 60
+}
