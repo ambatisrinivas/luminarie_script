@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Luminaire Control System
+Comment=Start the Luminaire Control Dashboard
+Exec=/bin/bash /home/nishanth/luminaire-control-system/start.sh
+Icon=/home/nishanth/luminaire-control-system/lcs.jpeg
+Terminal=false
+Type=Application
+Categories=Utility;
